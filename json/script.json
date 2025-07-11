@@ -1,0 +1,110 @@
+[
+  {
+    "name": "リネンシャツ",
+    "image": "linen_shirt.png",
+    "price": 4900,
+    "release_date": "2025-06-01",
+    "category": "tops",
+    "jender": "mens"
+  },
+
+  {
+    "name": "コットンパンツ",
+    "image": "cotton_pants.png",
+    "price": 5900,
+    "release_date": "2025-06-03",
+    "category": "bottoms",
+    "jender": "mens"
+  },
+ 
+  {
+    "name": "麦わら帽子",
+    "image": "straw_hat.png",
+    "price": 2500,
+    "release_date": "2025-06-04",
+    "category": "accessories",
+    "jender": "jender_free"
+  },
+
+  {
+    "name": "UVカットカーディガン",
+    "image": "uv_cardigan.png",
+    "price": 3900,
+    "release_date": "2025-06-05",
+    "category": "tops",
+    "jender": "womens"
+  },
+
+  {
+    "name": "リラックスショートパンツ",
+    "image": "relax_shorts.png",
+    "price": 3200,
+    "release_date": "2025-06-06",
+    "category": "bottoms",
+    "jender": "womens"
+  },
+ 
+  {
+    "name": "メッシュトートバッグ",
+    "image": "mesh_tote.png",
+    "price": 2800,
+    "release_date": "2025-06-07",
+    "category": "accessories",
+    "jender": "jender_free"
+  },
+
+  {
+    "name": "オーガニックTシャツ",
+    "image": "organic_tshirt.png",
+    "price": 2900,
+    "release_date": "2025-06-08",
+    "category": "tops",
+    "jender": "mens"
+  },
+
+  {
+    "name": "ロングスカート",
+    "image": "long_skirt.png",
+    "price": 4500,
+    "release_date": "2025-06-09",
+    "category": "bottoms",
+    "jender": "womens"
+  },
+ 
+  {
+    "name": "ラフィアハット",
+    "image": "raffia_hat.png",
+    "price": 3300,
+    "release_date": "2025-06-10",
+    "category": "accessories",
+    "jender": "womens"
+  },
+
+  {
+    "name": "シフォンブラウス",
+    "image": "chiffon_blouse.png",
+    "price": 5200,
+    "release_date": "2025-06-11",
+    "category": "tops",
+    "jender": "womens"
+  },
+
+  {
+    "name": "デニムショートパンツ",
+    "image": "denim_shorts.png",
+    "price": 3600,
+    "release_date": "2025-06-12",
+    "category": "bottoms",
+    "jender": "womens"
+  },
+ 
+  {
+    "name": "サマースリッパ",
+    "image": "summer_slippers.png",
+    "price": 1800,
+    "release_date": "2025-06-13",
+    "category": "accessories",
+    "jender": "jender_free"
+  }
+
+]

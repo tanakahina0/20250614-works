@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>20250614</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <!-- 検索窓 -->
+  <input type="search" id="search" placeholder="商品名で検索">
+  <!-- 価格バー -->
+  <div id="price-slider"></div>
+  <p id="price-range-display"></p>
+   <!-- カテゴリ -->
+  <p>アイテムカテゴリ</p>
+  <div id="category-buttons">
+    <button class="active" data-category="all">ALL</button>
+    <button data-category="tops">TOPS</button>
+    <button data-category="bottoms">BOTTOMS</button>
+    <button data-category="accessories">ACCESSORIES</button>
+  </div>
+  <!-- 性別 -->
+  <p>性別</p>
+  <div id="jender-buttons">
+    <button class="active" data-category="all">ALL</button>
+    <button data-category="mens">MENS</button>
+    <button data-category="womens">WOMENS</button>
+    <button data-category="jender_free">JENDER FREE</button>
+  </div>
+  <!--　商品一覧 -->
+  <div class="product-list" id="product-list">
+    <!-- この中に商品が入ります -->
+  </div>
+  <script src="./js/script.js"></script>
+</body>
+</html>
