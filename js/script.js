@@ -78,7 +78,7 @@ function setupPriceRange(products){
   slider.noUiSlider.on('update', function(values){
     const min = parseInt(values[0]);
     const max = parseInt(values[1]);
-    document.getElementById('price-range-display').textContent = `${min}円～${max}円以上`;
+    document.getElementById('price-range-display').textContent = `${min}円～${max}円`;
     filterAll();
   });
 }
