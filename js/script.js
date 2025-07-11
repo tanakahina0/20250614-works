@@ -1,7 +1,7 @@
 let products = [];
 
 // 商品データ読み込み
-fetch('../json/script.json')
+fetch('json/script.json')
   .then(response => response.json())
   .then(data => {
     products = data;
