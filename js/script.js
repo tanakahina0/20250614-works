@@ -41,7 +41,7 @@ function setupPriceRange(products){
   const priceHTML = `
     <p class="price-text">商品価格</p>
     <div id="price-slider"></div>
-    <p id="price-range-display">${minPrice}円～${maxPrice}円以上</p>
+    <p id="price-range-display">${minPrice}円～${maxPrice}円</p>
   `;
   const search = document.getElementById('search');
   search.insertAdjacentHTML('afterend', priceHTML);
